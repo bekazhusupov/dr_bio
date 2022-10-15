@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/03/eb/d3/03ebd3977bde09ddc98175f8777e20d5.jpg);
+    background-attachment: fixed;
+}
+
+
+header{
+     z-index: 100;  
+    width: 101%;
+    margin: 0;
+    font-size: 1.1rem;
+    background-color: rgb(29, 74, 104);
+    color: #fff;
+    display: flex;
+    justify-content: space-evenly;
+    background-attachment: fixed;
+
+         position: fixed;  
+        top: 0;  
+        
+        width: 100%;  
+} 
+
+.info{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+li {
+    list-style-type: none;
+    margin-top: 20px;
+    }
+
+li:hover{
+color: rgb(5, 201, 5);
+text-decoration: underline;
+}
+
+.h3{
+margin-left: 500px;
+padding-top: 100px;
+padding-bottom: 100px;
+color: rgb(11, 161, 167);
+text-decoration:underline;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.cold{
+padding-top: 30px;
+}
+
+
+/* =================часть 2=================== */
+
+.h3{
+    margin-left: 550px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: rgb(11, 161, 167);
+    text-decoration:underline;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+
+    /* ==============часть 3==================== */
+
+    .h3{
+        margin-left: 550px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        color: rgb(11, 161, 167);
+        text-decoration:underline;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+
+    /* ==============часть 4==================== */
+
+    .h2{
+        margin-left: 1000px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        color: rgb(11, 161, 167);
+        text-decoration:underline;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+
+    /* ==============часть 5==================== */
+
+    .h2{
+        margin-left: 550px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        color: rgb(11, 161, 167);
+        text-decoration:underline;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+    
+    
+        /* ==============часть 6==================== */
+
+
+        .h2{
+            margin-left: 550px;
+            padding-top: 100px;
+            padding-bottom: 100px;
+            color: rgb(11, 161, 167);
+            text-decoration:underline;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+
+/* =================================часть 7=========================== */
+
+            .h2{
+                margin-left: 550px;
+                padding-top: 100px;
+                padding-bottom: 100px;
+                color: rgb(11, 161, 167);
+                text-decoration:underline;
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                }
+
+
+                /* ================================================= */
+
+        footer{
+            /* background-color:rgb(11, 161, 167) ; */
+            color:rgb(11, 161, 167);
+            text-align: center;
+            padding-top: 100px;
+            padding-bottom: 100px;
+        }
+
+        .iconn{
+            padding-top: 50px;
+            display: flex;
+            justify-content: space-evenly;
+        
+        }
+
+        .whatsapp{
+            border-radius: 100px; 
+
+        }
+
+
+
+        .adres{
+            border-radius: 100px; 
+            
+        }
+
+
+        .ssylka{
+            padding-top: 50px;
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+        .tel{
+            margin-left: 70px;
+        }
+
+ 
